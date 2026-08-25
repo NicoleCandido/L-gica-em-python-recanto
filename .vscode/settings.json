@@ -1,0 +1,5 @@
+{
+    "editor.fontSize": 35,
+    "editor.autoClosingComments": "languageDefined",
+    "editor.cursorBlinking": "blink"
+}
